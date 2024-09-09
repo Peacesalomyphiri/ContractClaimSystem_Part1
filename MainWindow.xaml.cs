@@ -9,6 +9,7 @@ namespace ContractClaimSystem
             InitializeComponent();
 
             // Set the appropriate tab based on the role
+         
             switch (role)
             {
                 case "Lecturer":
@@ -42,7 +43,7 @@ namespace ContractClaimSystem
         {
             MessageBox.Show("This button will refresh and update the claim status list.", "Info", MessageBoxButton.OK, MessageBoxImage.Information);
         }
-        //code
+       
         private void ReviewSelectedButton_Click(object sender, RoutedEventArgs e)
         {
             // Logic to review the selected claim
