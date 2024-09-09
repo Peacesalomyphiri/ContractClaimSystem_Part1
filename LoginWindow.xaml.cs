@@ -9,7 +9,7 @@ namespace ContractClaimSystem
         {
             InitializeComponent();
         }
-
+        
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
             // Get the username, password, and selected role
