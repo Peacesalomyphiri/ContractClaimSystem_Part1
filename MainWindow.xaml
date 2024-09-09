@@ -4,7 +4,7 @@
         Title="Contract Monthly Claim System" Height="600" Width="900" Background="#F7F9FC">
 
     <Grid>
-        <!-- Header Section -->
+        <!-- Header Section --> 
         <DockPanel LastChildFill="True" Background="#007BFF">
             <TextBlock Text="Contract Monthly Claim System" FontSize="24" FontWeight="Bold" 
                        Foreground="White" Padding="10" DockPanel.Dock="Top"
